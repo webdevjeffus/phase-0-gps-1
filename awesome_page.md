@@ -17,4 +17,4 @@ puts "Here's another line."
 
 <img src="https://github.com/webdevjeffus/phase-0-gps-1/blob/master/coding-selfie.png" alt="Picture of us completing challenge">
 
-
+CONFLICT CONFLICT CONFLICT
